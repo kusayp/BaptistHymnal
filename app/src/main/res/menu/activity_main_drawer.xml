@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_home"
+                android:icon="@drawable/nav_home"
+                android:title="@string/home"/>
+        <item
+                android:id="@+id/nav_hymns"
+                android:icon="@drawable/nav_hymns"
+                android:title="@string/hymns"/>
+        <item
+                android:id="@+id/nav_categories"
+                android:icon="@drawable/nav_categories"
+                android:title="@string/categories"/>
+        <item
+                android:id="@+id/nav_favs"
+                android:icon="@drawable/nav_favs"
+                android:title="@string/favourites"/>
+    </group>
+
+    <item android:title="@string/extras">
+        <menu>
+                <item
+                        android:id="@+id/nav_search"
+                        android:icon="@drawable/nav_search"
+                        android:title="@string/search"/>
+                <item
+                        android:id="@+id/nav_settings"
+                        android:icon="@drawable/nav_settings"
+                        android:title="@string/settings"/>
+        </menu>
+    </item>
+
+</menu>

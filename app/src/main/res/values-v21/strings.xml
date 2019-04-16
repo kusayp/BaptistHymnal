@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="extras">Extras</string>
+    <string name="categories">Categories</string>
+    <string name="favourites">Favourites</string>
+    <string name="hymns">Hymns</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="enter_hymn">Enter hymn number</string>
+    <string name="get_hymn">Get Hymn</string>
+    <string name="search">Search</string>
+    <string name="hymn_brief">
+        Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord. Ephesians 5:19
+    </string>
+    <string name="night_mode">Night Mode</string>
+    <string name="fav">Favourite</string>
+</resources>
